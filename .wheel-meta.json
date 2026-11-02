@@ -1,0 +1,22 @@
+{
+  "wheel_id": 668,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsaustralia-108",
+  "project": "garage-door-repairs-brisbane-pros-and-cons-7b830d869fc8de24cfeb",
+  "parent_t1_ref": "garagedoorrepairsaustralia-153",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsaustralia.com.au",
+  "primary_kw": "garage door repairs brisbane pros and cons",
+  "intended_url": "https://sites-e470-2.web.app/garage-door-repairs-brisbane-pros-and-cons-7b830d869fc8de24cfeb/",
+  "tier": "T2",
+  "writeback_nonce": "f34180f2a680cfde",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/garagedoorrepairsaustralia-153/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
